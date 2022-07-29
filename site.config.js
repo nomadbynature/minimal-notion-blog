@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '426aed2971104908a1f07d4cdab61d3b',
+  rootNotionPageId: 'a53cb28655b44a4ca9952cc62e56f118',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Learn how to build websites with Notion. This website is an example starter site powered by Notion. Built on top of NotionX.',
 
   // social usernames (optional)
-  twitter: 'jotzilla',
-  github: 'jotzilla',
-  linkedin: 'jotzilla',
+  twitter: 'nomadbynature',
+  github: 'nomadbynnature',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
