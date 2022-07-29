@@ -52,14 +52,14 @@
 }
 
 .notion-header .breadcrumb.active {
-  text-transform: lowercase;
+  text-transform: none;
 }
 .notion-header .searchIcon {
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .notion-property {
-  text-transform: lowercase;
+  text-transform: none;
 }
 
 .notion-property.notion-property-date::before {
@@ -132,7 +132,7 @@
   font-size: 1.5em;
   font-weight: 600;
   white-space: unset;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .notion-collection-header-title {
