@@ -132,7 +132,7 @@
   font-size: 1.5em;
   font-weight: 600;
   white-space: unset;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 
 .notion-collection-header-title {
